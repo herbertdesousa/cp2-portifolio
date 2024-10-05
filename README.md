@@ -1,6 +1,6 @@
 # Next.js Project
 
-Este é um projeto desenvolvido com [Next.js](https://nextjs.org/), um framework React para aplicações web com renderização híbrida (SSR/SSG) e excelente performance.
+Este é um projeto desenvolvido com [Next.js](https://nextjs.org/) de meu portifólio de experiências
 
 ## Requisitos
 
