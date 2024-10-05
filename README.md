@@ -1,6 +1,6 @@
-# Next.js Project
+# Portifólio 
 
-Este é um projeto desenvolvido com [Next.js](https://nextjs.org/) de meu portifólio de experiências
+Este é um projeto de meu portifólio de experiências
 
 ## Requisitos
 
@@ -15,8 +15,8 @@ Siga os passos abaixo para configurar o projeto localmente:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/usuario/nome-do-projeto.git
-   cd nome-do-projeto
+   git clone https://github.com/herbertdesousa/cp2-portifolio.git
+   cd cp2-portifolio
 
 2. Instale as dependências: Se você estiver usando npm:
    ```bash
@@ -25,5 +25,4 @@ Siga os passos abaixo para configurar o projeto localmente:
 ## Como rodar o projeto
 Após instalar as dependências, você pode rodar o servidor de desenvolvimento com o seguinte comando:
   ```bash
-  npm i
   npm run dev
